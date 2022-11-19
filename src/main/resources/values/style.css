@@ -1,0 +1,56 @@
+.search_box{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search_button{
+    -fx-background-color: #00a1ff;
+    -fx-background-radius: 30;
+}
+
+.right_bar{
+    -fx-background-color: #F8E3FF;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(180,160,200,0.5),10.0,0.0,0.0,10.0);
+}
+
+.shadow2{
+    -fx-effect: dropShadow(three-pass-box, rgba(232, 232, 232, 0.5),10.0,0.0,0.0,10.0);
+}
+
+.selected_drug{
+    -fx-background-color: rgb(152, 210, 255);
+    -fx-background-radius: 10;
+    -fx-effect: dropShadow(three-pass-box,rgba(180,160,200,0.5),50.0,0.0,0.0,10.0);
+}
+
+.combo_box{
+    -fx-background-color: #F8E3FF;
+    -fx-background-radius: 5;
+}
+
+.cart_button{
+    -fx-background-color: #F8E3FF;
+    -fx-background-radius: 5;
+}
+
+.free_delivery{
+    -fx-background-color: #F8E3FF;
+    -fx-background-radius: 10;
+}
+
+.shopping_online{
+    -fx-background-color: rgb(152, 210, 255);
+    -fx-background-radius: 10;
+}
+
+.walItem{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 5;
+}
